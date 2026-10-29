@@ -93,7 +93,6 @@ footer {
   margin-top: 4rem;
   font-size: 0.75rem;
   color: var(--muted);
-  opacity: 0.75;
 }
 
 @media (max-width: 360px) {
